@@ -26,6 +26,8 @@ As the Terraform Ecosystem continues to grow, the Registry is designed to make i
 
 Anyone interested in publishing a Provider or Module can create an account and sign in to the Terraform Registry using a GitHub account. Choose Sign-in, and follow the login prompts. Once you have authorized the use of your GitHub account and are signed in, you are able to publish both Providers and Modules, directly from one of the Repositories you manage. To learn more, see [Publishing to the Registry](https://www.terraform.io/docs/registry/providers/publishing.html).
 
+![screenshot: terraform registry sign in](./images/user-account.png)
+
 ## Getting Help
 
 The providers and modules in The Terraform Registry are published and maintained either directly by HashiCorp, by trusted HashiCorp partners and the Terraform Community ([see tiers & namespaces](./providers/overview.html#provider-tiers-amp-namespaces)). If you run into issues or have additional contributions to make, you can find a link to any provider or module's GitHub issues on the detail view:
