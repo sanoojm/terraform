@@ -30,6 +30,6 @@ Anyone interested in publishing a Provider or Module can create an account and s
 
 ## Getting Help
 
-The providers and modules in The Terraform Registry are published and maintained either directly by HashiCorp, by trusted HashiCorp partners and the Terraform Community ([see tiers & namespaces](./providers/overview.html#provider-tiers-amp-namespaces)). If you run into issues or have additional contributions to make, you can find a link to any provider or module's GitHub issues on the detail view:
+We welcome any feedback you have throughout the process and encourage you to reach out if you have any questions or issues with the Terraform Registry by sending us an [email](mailto:terraform-registry-beta@hashicorp.com). The providers and modules in The Terraform Registry are published and maintained either directly by HashiCorp, by trusted HashiCorp partners and the Terraform Community ([see tiers & namespaces](./providers/overview.html#provider-tiers-amp-namespaces)). If you run into issues or have additional contributions to make to a provider or module, you can submit a GitHub issue by selecting the "Report an issue" link on the detail view:
 
 ![Provider report issue link](./images/registry-issue.png)
