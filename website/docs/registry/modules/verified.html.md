@@ -8,15 +8,13 @@ description: |-
 
 # Verified Modules
 
-Verified modules are reviewed by HashiCorp and actively maintained by
-contributors to stay up-to-date and compatible with both Terraform and
-their respective providers.
+Verified modules are reviewed by HashiCorp and actively maintained by contributors to stay up-to-date and compatible with both Terraform and their respective providers.
 
-The blue verification badge appears next to modules that are verified.
+The verified badge appears next to modules that are published by a verified source.
 
-![Verified module listing](/assets/images/docs/registry-verified.png)
+![Verified module listing](./images/registry-verified.png)
 
-Verified modules are expected to be actively maintained by the Cloud providers.
+Verified modules are expected to be actively maintained by HashiCorp partners.
 The verified badge isn’t indicative of flexibility or feature support; very
 simple modules can be verified just because they're great examples of modules.
 Likewise, an unverified module could be extremely high quality and actively
