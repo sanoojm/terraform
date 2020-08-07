@@ -21,10 +21,6 @@ Likewise, an unverified module could be extremely high quality and actively
 maintained. An unverified module shouldn't be assumed to be poor quality, it
 only means it hasn't been created by a HashiCorp partner.
 
-Module verification is currently a manual process restricted to a small group
-of trusted HashiCorp partners. In the coming months, we'll be expanding
-verification to enable the broader community to verify their modules.
-
 When [using registry modules](/docs/registry/modules/use.html), there is no
 difference between a verified and unverified module; they are used the same
 way.
