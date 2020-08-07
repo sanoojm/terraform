@@ -6,6 +6,10 @@
       <li>
         <a href="#">Providers</a>
         <ul class="nav nav-auto-expand">
+          <li<%= sidebar_current("docs-registry-provider-overview") %>>
+            <a href="/docs/registry/providers/overview.html">Overview</a>
+          </li>
+
           <li<%= sidebar_current("docs-registry-provider-publishing") %>>
             <a href="/docs/registry/providers/publishing.html">Publishing Providers</a>
           </li>
@@ -45,9 +49,6 @@
         <a href="/docs/registry/api.html">Registry API</a>
       </li>
 
-      <li<%= sidebar_current("docs-registry-support") %>>
-        <a href="/docs/registry/support.html">Registry Support</a>
-      </li>
     </ul>
 
     <%= partial("layouts/otherdocs", :locals => { :skip => "Terraform Registry" }) %>
